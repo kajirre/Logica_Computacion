@@ -1,1 +1,1 @@
-print("Hola mundo logica computacion)
+print("Hola mundo logica computacion")
